@@ -9,7 +9,7 @@ namespace RetailStore_Juan_Jacinto
         public string nombre;
         public string apellido;
         public string email;
-        public string contraseña;
+        public string contrasena;
         public string telefono;
         public string direccion;
         public string dni;
